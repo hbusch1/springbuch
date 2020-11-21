@@ -1,0 +1,3 @@
+example:
+    theGreeting: Hello, World from YAML!
+    interval: 1235
